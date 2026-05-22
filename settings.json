@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "HugoDistrictEvolveBOT",
+    "password": "HugoDistrict111",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "HugoDistrictEvolve.aternos.me:45133",
+    "port": 45133,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
